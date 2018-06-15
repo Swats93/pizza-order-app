@@ -1,4 +1,4 @@
-# Pizza order app for Waldo Photos
+# Pizza order app
 
 # To Run :
 * npm install
